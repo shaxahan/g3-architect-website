@@ -149,6 +149,7 @@ main > section {
 .facts-container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  justify-items: center;
 }
 .fact-card {
   border: 1px solid #ff900e;
